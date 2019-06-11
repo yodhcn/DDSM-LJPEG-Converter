@@ -1,6 +1,6 @@
 # DDSM-LJPEG-Converter
 
-This repository is created for converting Mammography of [Digital Database for Screening Mammography (DDSM)](http://marathon.csee.usf.edu/Mammography/Database.html) form LJPEG to more ordinary format.
+This repository is created for converting Mammography of Digital Database for Screening Mammography (DDSM) form LJPEG to more ordinary format.
 
 
 
@@ -16,32 +16,32 @@ This repository is created for converting Mammography of [Digital Database for S
 
 **There are 4 steps you need to pay attention to.**
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1qBbLclWD3KVjSZFs763qkpXap.png" alt="Sample" width="402" height="311">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1qBbLclWD3KVjSZFs763qkpXap.png" alt="Sample" width="402" height="311">
+	<p align="left">
 		<em> ATTENTION 1: Choose to install for “Just Me”.</em>
 	</p>
 </p>
 
 **Search components with the search box.**
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1anLRclKw3KVjSZFO761rDVXaM.png" alt="Sample" width="768" height="408">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1anLRclKw3KVjSZFO761rDVXaM.png" alt="Sample" width="768" height="408">
+	<p align="left">
 		<em> ATTENTION 2: Choose to install ImageMagick.</em>
 	</p>
 </p>
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1BvYNcoGF3KVjSZFv762_nXXaN.png" alt="Sample" width="768" height="408">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1BvYNcoGF3KVjSZFv762_nXXaN.png" alt="Sample" width="768" height="408">
+	<p align="left">
 		<em> ATTENTION 3: Choose to install ruby.</em>
 	</p>
 </p>
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1OjfPcmSD3KVjSZFK76210VXaW.png" alt="Sample" width="768" height="408">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1OjfPcmSD3KVjSZFK76210VXaW.png" alt="Sample" width="768" height="408">
+	<p align="left">
 		<em> ATTENTION 4: Choose to install rubygems.</em>
 	</p>
 </p>
@@ -60,9 +60,9 @@ This repository is created for converting Mammography of [Digital Database for S
 
  where <Your User Name> is your Windows username.)
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1knkPca5s3KVjSZFN763D3FXam.png" alt="Sample" width="546" height="317">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1knkPca5s3KVjSZFN763D3FXam.png" alt="Sample" width="546" height="317">
+	<p align="left">
 		<em> Initialize your home directory. </em>
 	</p>
 </p>
@@ -71,9 +71,9 @@ This repository is created for converting Mammography of [Digital Database for S
 
  (i.e., **C:\cygwin64\home\<Your User Name>\DDSM-LJPEG-Converter**)
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1itgOcaSs3KVjSZPi763siVXaz.png" alt="Sample" width="559" height="362">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1itgOcaSs3KVjSZPi763siVXaz.png" alt="Sample" width="559" height="362">
+	<p align="left">
 		<em> Copy the DDSM-LJPEG-Converter directory. </em>
 	</p>
 </p>
@@ -85,9 +85,9 @@ This repository is created for converting Mammography of [Digital Database for S
 - ATTENTION 1: Don't modify **.LJPEG** filenames and **.ics** filenames.
 - ATTENTION 2: Ensure that **.LJPEG** files are in the same directory as their corresponding **.ics** file.
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1G8M5Xvxj_uVjSZFq761boFXas.png" alt="Sample" width="559" height="362">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1G8M5Xvxj_uVjSZFq761boFXas.png" alt="Sample" width="559" height="362">
+	<p align="left">
 		<em> Copy the LJPEG pictures folder. </em>
 	</p>
 </p>
@@ -115,19 +115,20 @@ cd DDSM-LJPEG-Converter
 ./LJPEG-to-png
 ```
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1hksIcliE3KVjSZFM762QhVXa3.png" alt="Sample" width="546" height="317">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1hksIcliE3KVjSZFM762QhVXa3.png" alt="Sample" width="546" height="317">
+	<p align="left">
 		<em> Run the ruby script. </em>
 	</p>
 </p>
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1LawKcmSD3KVjSZFK76210VXaW.png" alt="Sample" width="559" height="361">
-	<p align="center">
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1WhQJcliE3KVjSZFM762QhVXag.png" alt="Sample" width="559" height="361">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1LawKcmSD3KVjSZFK76210VXaW.png" alt="Sample" width="559" height="361">
+	<p align="left">
+
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1WhQJcliE3KVjSZFM762QhVXag.png" alt="Sample" width="559" height="361">
+	<p align="left">
 		<em> Running results. </em>
 	</p>
 </p>
