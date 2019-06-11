@@ -18,7 +18,7 @@ This repository is created for converting Mammography of [Digital Database for S
 <p align="center">
 	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1qBbLclWD3KVjSZFs763qkpXap.png" alt="Sample" width="402" height="311">
 	<p align="center">
-		<em> ATTENTION 1: Choose to install for “Just Me”.</em>
+		<em> ATTENTION 1: Choose to install for “Just Me”. </em>
 	</p>
 </p>
 
