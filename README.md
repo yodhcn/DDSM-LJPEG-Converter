@@ -48,7 +48,6 @@ This repository is created for converting Mammography of [Digital Database for S
 </p>
 
 
-
 ## Usage
 
 **1\.** Initialize your home directory.
@@ -60,6 +59,7 @@ This repository is created for converting Mammography of [Digital Database for S
  (This corresponds to the Windows directory "**C:\cygwin64\home\<Your User Name>** "
 
  where <Your User Name> is your Windows username.)
+	
 
 <p align="center">
 	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1knkPca5s3KVjSZFN763D3FXam.png" alt="Sample" width="546" height="317">
@@ -68,9 +68,11 @@ This repository is created for converting Mammography of [Digital Database for S
 	</p>
 </p>
 
+
 **2\.** Copy the **DDSM-LJPEG-Converter** folder into your Cygwin home directory.
 
  (i.e., **C:\cygwin64\home\<Your User Name>\DDSM-LJPEG-Converter**)
+ 
 
 <p align="center">
 	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1itgOcaSs3KVjSZPi763siVXaz.png" alt="Sample" width="559" height="362">
@@ -79,6 +81,7 @@ This repository is created for converting Mammography of [Digital Database for S
 	</p>
 </p>
 
+
 **3\.** Copy your LJPEG pictures folder into the **DDSM-LJPEG-Converter** directory.
 
  The LJPEG pictures folder can be a Nested Folder, but there are 2 points you need to pay attention to.
@@ -86,12 +89,14 @@ This repository is created for converting Mammography of [Digital Database for S
 - ATTENTION 1: Don't modify **.LJPEG** filenames and **.ics** filenames.
 - ATTENTION 2: Ensure that **.LJPEG** files are in the same directory as their corresponding **.ics** file.
 
+
 <p align="center">
 	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1G8M5Xvxj_uVjSZFq761boFXas.png" alt="Sample" width="559" height="362">
 	<p align="center">
 		<em> Copy the LJPEG pictures folder. </em>
 	</p>
 </p>
+
 
 **4\.** Change directory to the DDSM-LJPEG-Converter directory.
 
@@ -109,6 +114,7 @@ cd DDSM-LJPEG-Converter
 		<em> Change directory to the DDSM-LJPEG-Converter directory. </em>
 	</p>
 </p>
+
 5\. Run the ruby script.
 
 ```
