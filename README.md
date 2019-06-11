@@ -102,9 +102,9 @@ This repository is created for converting Mammography of Digital Database for Sc
 cd DDSM-LJPEG-Converter
 ```
 
-<p align="center">
-	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1SGwPclCw3KVjSZFu763AOpXa2.png" alt="Sample" width="546" height="317">
-	<p align="center">
+<p align="left">
+	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1SGwPclCw3KVjSZFu763AOpXa2.png" alt="Sample" width="546" height="317">
+	<p align="left">
 		<em> Change directory to the DDSM-LJPEG-Converter directory. </em>
 	</p>
 </p>
