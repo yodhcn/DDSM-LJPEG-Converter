@@ -2,7 +2,7 @@
 
 
 ### This program converts LJPEG images to PNG images. ###
-# https://github.com/Watanuki-Kimihiro/LJPEG-to-png 
+# https://github.com/Watanuki-Kimihiro/DDSM-LJPEG-Converter
 
 require 'find'
 
