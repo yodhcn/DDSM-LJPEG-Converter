@@ -63,7 +63,6 @@ This repository is created for converting Mammography of Digital Database for Sc
 <p align="left">
 	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1knkPca5s3KVjSZFN763D3FXam.png" alt="Sample" width="546" height="317">
 	<p align="left">
-		<em> Initialize your home directory. </em>
 	</p>
 </p>
 
@@ -74,7 +73,6 @@ This repository is created for converting Mammography of Digital Database for Sc
 <p align="left">
 	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1itgOcaSs3KVjSZPi763siVXaz.png" alt="Sample" width="559" height="362">
 	<p align="left">
-		<em> Copy the DDSM-LJPEG-Converter directory. </em>
 	</p>
 </p>
 
@@ -88,7 +86,6 @@ This repository is created for converting Mammography of Digital Database for Sc
 <p align="left">
 	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1G8M5Xvxj_uVjSZFq761boFXas.png" alt="Sample" width="559" height="362">
 	<p align="left">
-		<em> Copy the LJPEG pictures folder. </em>
 	</p>
 </p>
 
@@ -102,10 +99,9 @@ This repository is created for converting Mammography of Digital Database for Sc
 cd DDSM-LJPEG-Converter
 ```
 
-<p align="left">
-	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1SGwPclCw3KVjSZFu763AOpXa2.png" alt="Sample" width="546" height="317">
-	<p align="left">
-		<em> Change directory to the DDSM-LJPEG-Converter directory. </em>
+<p align="center">
+	<div align=center><img src="https://ae01.alicdn.com/kf/HTB1SGwPclCw3KVjSZFu763AOpXa2.png" alt="Sample" width="546" height="317">
+	<p align="center">
 	</p>
 </p>
 
@@ -118,7 +114,6 @@ cd DDSM-LJPEG-Converter
 <p align="left">
 	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1hksIcliE3KVjSZFM762QhVXa3.png" alt="Sample" width="546" height="317">
 	<p align="left">
-		<em> Run the ruby script. </em>
 	</p>
 </p>
 
@@ -129,6 +124,5 @@ cd DDSM-LJPEG-Converter
 <p align="left">
 	<div align=left><img src="https://ae01.alicdn.com/kf/HTB1WhQJcliE3KVjSZFM762QhVXag.png" alt="Sample" width="559" height="361">
 	<p align="left">
-		<em> Running results. </em>
 	</p>
 </p>
