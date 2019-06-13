@@ -56,7 +56,7 @@ This repository is created for converting Mammography of Digital Database for Sc
 
  Initially, your session will start in your “**home**” directory, denoted by “~” in Cygwin.
 
- (This corresponds to the Windows directory "**C:\cygwin64\home\<Your User Name>** "
+ (This corresponds to the Windows directory "**C:\cygwin64\home\YourUserName** "
 
  where <Your User Name> is your Windows username.)
 
