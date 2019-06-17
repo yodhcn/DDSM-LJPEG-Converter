@@ -2,6 +2,7 @@
 
 This repository is created for converting Mammography of Digital Database for Screening Mammography (DDSM) form LJPEG to more ordinary format.
 
+More details: https://blog.csdn.net/liuxinghan1998/article/details/91493334
 
 
 ## Initial Requirements
